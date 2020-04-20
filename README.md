@@ -53,7 +53,6 @@ _Below we are able to check the resources that are being created as part of this
 
 _To use this module, add the following call to your code:_
 
-- **_Forward Action_**
 
 ```tf
 module "random_string" {
